@@ -1,0 +1,22 @@
+body {
+background-color: black;
+color: white;
+
+
+
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+    color: purple;
+}
+
+img {
+   border: 0.5px solid rgb(153, 0, 255);
+}
+
+.p {
+
+}
